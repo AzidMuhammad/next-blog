@@ -23,7 +23,7 @@ export default function ArticleHero() {
   };
 
   return (
-    <div className="relative max-w-[1200px] mx-auto md:mt-8">
+    <div className="relative max-w-[1200px] mx-auto md:mt-8 mb-10">
       <img
         src="/image/hero.webp"
         alt="Article Cover"

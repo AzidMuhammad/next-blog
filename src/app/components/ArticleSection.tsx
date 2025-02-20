@@ -8,7 +8,7 @@ const article = {
     name: "Azid Muhammad",
     role: "Full-Stack Developer",
     profileImage: "https://static.vecteezy.com/system/resources/previews/005/129/844/non_2x/profile-user-icon-isolated-on-white-background-eps10-free-vector.jpg",
-    linkedin: "https://linkedin.com/in/emilycarter",
+    linkedin: "https://www.linkedin.com/in/azid-muhammad-bb73a32b7?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app",
     github: "https://github.com/AzidMuhammad"
   },
   tags: [
